@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm shivam tiwari</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDc5Nzh4YTB6Nzl6MTM1Z2hvaWx6d3NsZ3R2dWYwMG5oajRvaW10MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.webp">
+<img align="right" alt="coding" width="300" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDc5Nzh4YTB6Nzl6MTM1Z2hvaWx6d3NsZ3R2dWYwMG5oajRvaW10MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrshiiivam&label=Profile%20views&color=0e75b6&style=flat" alt="mrshiiivam" /> </p>
 
