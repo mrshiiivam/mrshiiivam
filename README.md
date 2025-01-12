@@ -1,4 +1,4 @@
-![logo](https://github.com/Ashutosh-PMishra/Ashutosh-PMishra/blob/main/Github%20Banner.png)
+<!--![logo](https://github.com/Ashutosh-PMishra/Ashutosh-PMishra/blob/main/Github%20Banner.png)-->
 <h1 align="center">Hi 👋, I'm shivam tiwari</h1>
 <h3 align="center"> *𝐞𝐚𝐠𝐞𝐫 𝐭𝐨 𝐥𝐞𝐚𝐫𝐧 𝐚𝐧𝐝 𝐛𝐮𝐢𝐥𝐝 𝐬𝐨𝐦𝐞𝐭𝐡𝐢𝐧𝐠 𝐦𝐞𝐚𝐧𝐢𝐧𝐠𝐟𝐮𝐥*</h3>
 
