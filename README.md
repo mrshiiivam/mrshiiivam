@@ -32,14 +32,14 @@
 <h3 align="left">📊 GitHub Activity</h3>
 <!--<p>![SHIVAM TIWARI github stats]<a href="https://www.buymeacoffee.com/mr.shiiivam"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mr.shiiivam" /></a></p><br><br>-->
 
-| <p><img align="left"  ![SHIVAM TIWARI github stats] src="https://github-readme-stats.vercel.app/api/top-langs?username=mrshiiivam&show_icons=true&locale=en&layout=compact" alt="mrshiiivam" /></p>
+<p><img align="left"  ![SHIVAM TIWARI github stats] src="https://github-readme-stats.vercel.app/api/top-langs?username=mrshiiivam&show_icons=true&locale=en&layout=compact" alt="mrshiiivam" /></p>
 
-| <p>&nbsp;<img ![Top Langs] align="center" src="https://github-readme-stats.vercel.app/api?username=mrshiiivam&show_icons=true&locale=en" alt="mrshiiivam" /></p>
+ <p>&nbsp;<img ![Top Langs] align="center" src="https://github-readme-stats.vercel.app/api?username=mrshiiivam&show_icons=true&locale=en" alt="mrshiiivam" /></p>
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
-| <p><img  align="left" ![SHIVAM TIWARI GitHub Streak] src="https://github-readme-streak-stats.herokuapp.com/?user=mrshiiivam&" alt="mrshiiivam" /></p>
+<p><img  align="left" ![SHIVAM TIWARI GitHub Streak] src="https://github-readme-streak-stats.herokuapp.com/?user=mrshiiivam&" alt="mrshiiivam" /></p>
 
 
-| <img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
+<img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
