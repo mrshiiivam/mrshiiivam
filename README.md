@@ -35,10 +35,7 @@
 <p><img align="left"  ![SHIVAM TIWARI github stats] src="https://github-readme-stats.vercel.app/api/top-langs?username=mrshiiivam&show_icons=true&locale=en&layout=compact" alt="mrshiiivam" /></p>
 
  <p>&nbsp;<img ![Top Langs] align="center" src="https://github-readme-stats.vercel.app/api?username=mrshiiivam&show_icons=true&locale=en" alt="mrshiiivam" /></p>
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
-
+| ------------------------------------------------------------------------------------------------------------------------------------------
 <p><img  align="left" ![SHIVAM TIWARI GitHub Streak] src="https://github-readme-streak-stats.herokuapp.com/?user=mrshiiivam&" alt="mrshiiivam" /></p>
 
 
