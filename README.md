@@ -7,11 +7,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrshiiivam" alt="mrshiiivam" /></a> </p>
 
-- 🌱 I’m currently learning **Backend Development**
+- 🌱 I’m currently learning  **Backend Development**
 
 - All of my projects are available at [Github](https://github.com/mrshiiivam)
-
-
 
 - 💬  Ask Me About  **Programming** and **web Development**
 - 
