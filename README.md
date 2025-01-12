@@ -1,16 +1,20 @@
 <h1 align="center">Hi 👋, I'm shivam tiwari</h1>
-<h3 align="center">A passionate software developer from India</h3>
+<h3 align="center"> *𝐞𝐚𝐠𝐞𝐫 𝐭𝐨 𝐥𝐞𝐚𝐫𝐧 𝐚𝐧𝐝 𝐛𝐮𝐢𝐥𝐝 𝐬𝐨𝐦𝐞𝐭𝐡𝐢𝐧𝐠 𝐦𝐞𝐚𝐧𝐢𝐧𝐠𝐟𝐮𝐥*</h3>
 
-<img align="right" alt="coding" width="300" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDc5Nzh4YTB6Nzl6MTM1Z2hvaWx6d3NsZ3R2dWYwMG5oajRvaW10MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.webp">
+<img  src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDc5Nzh4YTB6Nzl6MTM1Z2hvaWx6d3NsZ3R2dWYwMG5oajRvaW10MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrshiiivam&label=Profile%20views&color=0e75b6&style=flat" alt="mrshiiivam" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrshiiivam" alt="mrshiiivam" /></a> </p>
 
-- 🌱 I’m currently learning **DSA,REACT,NODE.JS,MONGO.DB,SQL**
+- 🌱 I’m currently learning **Backend Development**
 
-- 💬 Ask me about **react,oops,dbms**
+- All of my projects are available at [Github](https://github.com/mrshiiivam)
 
+
+
+- 💬  Ask Me About  **Programming** and **web Development**
+- 
 - 📫 How to reach me **st8968412@gmail.com**
 
 - ⚡ Fun fact **I think i am funny**
